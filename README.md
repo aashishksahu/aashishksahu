@@ -1,11 +1,5 @@
-<h3 align="center">Aashish Kumar Sahu</h3>
-<h4 align="center">Software developer from India</h4>
-
-<p align="left">
-<h4 align="left">Connect with me:</h4>
-<a href="http://github.com/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="aashishksahu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aashishksahu" height="30" width="40" /></a>
-</p>
+<h3>Aashish Kumar Sahu</h3>
+<h4>Software developer from India</h4>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
@@ -48,3 +42,8 @@
 
 <h4 align="Left">Projects</h4>
 
+<p align="left">
+<h4 align="left">Connect with me:</h4>
+<a href="http://github.com/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="aashishksahu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aashishksahu" height="30" width="40" /></a>
+</p>
