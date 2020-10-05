@@ -1,5 +1,5 @@
 # Aashish Kumar Sahu
-### I am a software developer from India.  Here is a summary of the work I have done through the years...
+### I am a software developer from India. Here is a little summary of my work...
  ---
  ### My flagship Projects
 * **Streamit - Music streaming web app made in SEAN stack**
@@ -19,4 +19,4 @@
 * **Data Structures & Algorithms** - [Binary Tree & Linked List in C++, Array, Stack & Queue](https://github.com/aashishksahu/Tutorials/tree/master/Data%20Structures), [Project Euler](https://github.com/aashishksahu/Algorithms-Programming/tree/master/Project%20Euler)
  * **Fun Stuff** - [Chess](https://github.com/aashishksahu/Frontend/tree/master/Chess), [Tic Tac Toe](https://github.com/aashishksahu/Frontend/tree/master/Tic-Tac-Toe) in HTML/CSS/JS
 
-...And the first project of my life, when I was in school ([Check it out](https://github.com/aashishksahu/Java-Projects/tree/master/Company-Portal))
+...and the first project of my life, when I was in school ([Check it out](https://github.com/aashishksahu/Java-Projects/tree/master/Company-Portal))
