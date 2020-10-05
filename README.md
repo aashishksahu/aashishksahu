@@ -1,49 +1,22 @@
-<h3>Aashish Kumar Sahu</h3>
-<h4>Software developer from India</h4>
+# Aashish Kumar Sahu
+### I am a software developer from India.  Here is a summary of the work I have done through the years...
+ ---
+ ### My flagship Projects
+* **Streamit - Music streaming web app made in SEAN stack**
+	 * [Frontend in Angular](https://github.com/aashishksahu/stream.it-frontend)
+	 * [Backend in NodeJS](https://github.com/aashishksahu/stream.it-backend)
+	* **[Demo](https://www.youtube.com/watch?v=i3s7oCr945U)**
+* **Regenerating MNIST digits using CNN Auto-encoder**
+	* [Link to jupyter Notebook](https://github.com/aashishksahu/Deep-Learning/blob/master/Autoencoder/MNIST_autoencoder.ipynb)	
+* **Canny edge detector**
+	* [Link to jupyter Notebook](https://github.com/aashishksahu/Algorithms-Programming/blob/master/Canny%20Edge%20Detector/Canny%20Edge%20Detector.ipynb)
+ 
+ ### Tutorials and code samples
+ * **Design Patterns** [Strategy Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Strategy.ipynb "Strategy Pattern"), [Observer Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Observer.ipynb "Observer Pattern"), [Decorator Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Decorator.ipynb "Decorator Pattern"), [Factory Method Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/FactoryMethod.ipynb "FactoryMethod Pattern"), [Singleton Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Singleton.ipynb "Singleton Pattern")
+ * **Java** - [JDBC, JUnit4, Sockets](https://github.com/aashishksahu/Java-Projects/tree/master/LearnJava/src/main/java)
+ * **Deep Learning** - [Autoencoder, Deep Dream, Image classification, Neural Networks](https://github.com/aashishksahu/Deep-Learning)
+ * **Machine Learning** - [regression, clustering, nearest neighbors](https://github.com/aashishksahu/Machine-Learning)
+* **Data Structures & Algorithms** - [Binary Tree & Linked List in C++, Array, Stack & Queue](https://github.com/aashishksahu/Tutorials/tree/master/Data%20Structures), [Project Euler](https://github.com/aashishksahu/Algorithms-Programming/tree/master/Project%20Euler)
+ * **Fun Stuff** - [Chess](https://github.com/aashishksahu/Frontend/tree/master/Chess), [Tic Tac Toe](https://github.com/aashishksahu/Frontend/tree/master/Tic-Tac-Toe) in HTML/CSS/JS
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left">
-    <a href="https://angular.io" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
-            width="40" height="40" />
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle"
-            width="40" height="40" />
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
-            width="40" height="40" />
-    </a>
-</p>
-
-<h4 align="Left">Projects</h4>
-
-<p align="left">
-<h4 align="left">Connect with me:</h4>
-<a href="http://github.com/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="aashishksahu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashishksahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aashishksahu" height="30" width="40" /></a>
-</p>
+...And the first project of my life, when I was in school ([Check it out](https://github.com/aashishksahu/Java-Projects/tree/master/Company-Portal))
