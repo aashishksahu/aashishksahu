@@ -12,7 +12,7 @@
 	* [Link to jupyter Notebook](https://github.com/aashishksahu/Algorithms-Programming/blob/master/Canny%20Edge%20Detector/Canny%20Edge%20Detector.ipynb)
  
  ### Tutorials and code samples
- * **Spring framework** - [Spring Boot, Spring Data Jpa, Dependency Injection](https://github.com/aashishksahu/Spring-Works)
+ * **Spring Framework** - [Spring Boot, Spring Data Jpa, Dependency Injection](https://github.com/aashishksahu/Spring-Works)
  * **Design Patterns** [Strategy Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Strategy.ipynb "Strategy Pattern"), [Observer Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Observer.ipynb "Observer Pattern"), [Decorator Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Decorator.ipynb "Decorator Pattern"), [Factory Method Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/FactoryMethod.ipynb "FactoryMethod Pattern"), [Singleton Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Singleton.ipynb "Singleton Pattern")
 * **Java** - [JDBC, JUnit4, Sockets](https://github.com/aashishksahu/Java-Projects/tree/master/LearnJava/src/main/java)
 * **Deep Learning** - [Autoencoder, Deep Dream, Image classification, Neural Networks](https://github.com/aashishksahu/Deep-Learning)
