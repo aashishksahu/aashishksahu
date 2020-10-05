@@ -1,17 +1,17 @@
 # Aashish Kumar Sahu
 ### I am a software developer from India. Here is a little summary of my work...
  ---
- ### My flagship Projects
+ ### My Flagship Projects
 * **Streamit - Music streaming web app made in SEAN stack**
 	 * [Frontend in Angular](https://github.com/aashishksahu/stream.it-frontend)
 	 * [Backend in NodeJS](https://github.com/aashishksahu/stream.it-backend)
 	* **[Demo](https://www.youtube.com/watch?v=i3s7oCr945U)**
-* **Regenerating MNIST digits using CNN Auto-encoder**
+* **Regenerating MNIST digits using CNN auto-encoder**
 	* [Link to jupyter Notebook](https://github.com/aashishksahu/Deep-Learning/blob/master/Autoencoder/MNIST_autoencoder.ipynb)	
 * **Canny edge detector**
 	* [Link to jupyter Notebook](https://github.com/aashishksahu/Algorithms-Programming/blob/master/Canny%20Edge%20Detector/Canny%20Edge%20Detector.ipynb)
  
- ### Tutorials and code samples
+ ### Tutorials and Code Samples
  * **Spring Framework** - [Spring Boot, Spring Data Jpa, Dependency Injection](https://github.com/aashishksahu/Spring-Works)
  * **Design Patterns** [Strategy Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Strategy.ipynb "Strategy Pattern"), [Observer Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Observer.ipynb "Observer Pattern"), [Decorator Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Decorator.ipynb "Decorator Pattern"), [Factory Method Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/FactoryMethod.ipynb "FactoryMethod Pattern"), [Singleton Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Singleton.ipynb "Singleton Pattern")
 * **Java** - [JDBC, JUnit4, Sockets](https://github.com/aashishksahu/Java-Projects/tree/master/LearnJava/src/main/java)
